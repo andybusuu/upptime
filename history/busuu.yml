@@ -1,7 +1,7 @@
 url: https://www.busuu.com
-status: down
-code: 503
-responseTime: 273
-lastUpdated: 2023-10-09T00:45:55.928Z
+status: up
+code: 200
+responseTime: 861
+lastUpdated: 2023-10-09T04:21:52.126Z
 startTime: 2023-01-20T14:28:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
