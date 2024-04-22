@@ -25,7 +25,7 @@
     "url": "https://blog.busuu.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.busuu.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 241,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2024-04-22": 0,
       "2024-02-22": 15,
       "2023-11-08": 353,
       "2023-11-07": 1440,
