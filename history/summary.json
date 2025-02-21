@@ -11,10 +11,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 629,
-    "timeDay": 314,
-    "timeWeek": 663,
-    "timeMonth": 579,
-    "timeYear": 619,
+    "timeDay": 566,
+    "timeWeek": 609,
+    "timeMonth": 578,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2025-02-06": 15,
       "2024-03-07": 18
@@ -26,22 +26,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.busuu.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 296,
-    "timeDay": 150,
-    "timeWeek": 346,
-    "timeMonth": 324,
+    "timeDay": 188,
+    "timeWeek": 301,
+    "timeMonth": 312,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2024-09-11": 39,
       "2024-07-09": 20,
       "2024-07-04": 29,
-      "2024-04-22": 18,
-      "2024-02-22": 15
+      "2024-04-22": 18
     }
   }
 ]
