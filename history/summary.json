@@ -6,17 +6,16 @@
     "slug": "busuu",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 100,
     "timeWeek": 134,
     "timeMonth": 143,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-08-25": 12,
       "2025-02-06": 15
     }
   },
