@@ -4,17 +4,17 @@
     "url": "https://www.busuu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.busuu.com.ico",
     "slug": "busuu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.84%",
-    "time": 324,
-    "timeDay": 118,
-    "timeWeek": 79,
-    "timeMonth": 109,
-    "timeYear": 201,
+    "uptimeDay": "89.03%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.82%",
+    "time": 323,
+    "timeDay": 112,
+    "timeWeek": 80,
+    "timeMonth": 108,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2025-08-26": 38,
       "2025-08-27": 51,
@@ -28,7 +28,7 @@
       "2026-04-07": 60,
       "2026-06-04": 84,
       "2026-06-05": 192,
-      "2026-06-06": 84
+      "2026-06-06": 158
     }
   },
   {
