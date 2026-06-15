@@ -6,10 +6,10 @@
     "slug": "busuu",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "99.80%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "99.79%",
     "time": 313,
     "timeDay": 110,
     "timeWeek": 130,
@@ -29,7 +29,8 @@
       "2026-06-04": 84,
       "2026-06-05": 192,
       "2026-06-06": 158,
-      "2026-06-12": 99
+      "2026-06-12": 99,
+      "2026-06-15": 96
     }
   },
   {
