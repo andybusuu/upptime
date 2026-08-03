@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 275,
-    "timeDay": 61,
-    "timeWeek": 617,
+    "time": 273,
+    "timeDay": 123,
+    "timeWeek": 605,
     "timeMonth": 227,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -44,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.busuu.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 146,
-    "timeWeek": 261,
+    "timeDay": 163,
+    "timeWeek": 246,
     "timeMonth": 191,
-    "timeYear": 309,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   }
 ]
